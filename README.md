@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Swastik</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
-<!--
-**Swastik-51/Swastik-51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Derma-Detect**
 
-Here are some ideas to get you started:
+- 📫 How to reach me : **swastik724@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ **A tech enthusiast passionate about AI/ML, data science, and problem-solving, with a deep love for cinematic storytelling, immersive RPGs, and thought-provoking literature.**
+
+<p align="left">
+</p>
+
+
